@@ -1,0 +1,39 @@
+.one {
+  color: grey;
+  font-style: italic;
+}
+.two {
+  font-size: 75%;
+  color: grey;
+}
+h1 {
+  font-style: bold;
+  color: darkred;
+  font-size: 125%;
+}
+h2 {
+  font-style: bold;
+  color: darkred;
+  font-size: 125%;
+}
+h3 {
+  color: black;
+}
+h4{
+  color: darkred;
+}
+h5{
+  color: darkred
+}
+h6 {
+  color: darkred;
+}
+h7 {
+  color: darkred;
+}
+h8{
+  color: black;
+}
+h9 {
+  color: darkred;
+}
